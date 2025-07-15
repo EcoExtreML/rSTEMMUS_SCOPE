@@ -65,6 +65,7 @@ After collecting and organising the data required to run the model (see input va
 |:-------|:-----------------------------|:---------:|:--------------------|
 | Sim_Theta | Soil Water Content (SWC) | [m3 m-3] | per depth (1 to 500 cm) |
 | Sim_Temp  | Soil Temperature (Ts)    |   [°C]   | per depth (1 to 500 cm) |
+| Sim_hh  | Soil Water Potential (SWP)    |   [cm]   | per depth (1 to 500 cm) |
 | surftemp | Surface Temperature (LST)  |   [°C]   | soil skin and canopy |
 | waterPotential | Leaf Water Potential (LWP)  |   [m]   |  |
 | waterStreessFactor | Soil Water Stress (factor)  |   [-]   | from 0 to 1 |
